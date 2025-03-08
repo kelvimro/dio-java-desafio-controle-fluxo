@@ -25,7 +25,7 @@ Clone this repository:
 
 ```sh
 git clone https://github.com/kelvimro/dio-java-desafio-controle-fluxo.git
-cd FlowControl
+cd flow-control
 ```
 
 Compile and run the Java program:
