@@ -1,6 +1,6 @@
 # DIO Java Course Exercise: Flow Control
 
-This repository is dedicated to submitting the **[Flow Control Challenge](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)** from the **[Java course at Digital Innovation One (DIO)](https://web.dio.me/)**.
+This project is dedicated to submitting the **[Flow Control Challenge](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/controle-fluxo)** from the **[Java course at Digital Innovation One (DIO)](https://web.dio.me/)**.
 
 ## 📌 Challenge Description
 
